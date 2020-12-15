@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Tsunami\Tsunami\bin\Debug\netcoreapp3.1\Tsunami.exe
+C:\Users\DELL\source\repos\Tsunami\Tsunami\bin\Debug\netcoreapp3.1\Tsunami.deps.json
+C:\Users\DELL\source\repos\Tsunami\Tsunami\bin\Debug\netcoreapp3.1\Tsunami.runtimeconfig.json
+C:\Users\DELL\source\repos\Tsunami\Tsunami\bin\Debug\netcoreapp3.1\Tsunami.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Tsunami\Tsunami\bin\Debug\netcoreapp3.1\Tsunami.dll
+C:\Users\DELL\source\repos\Tsunami\Tsunami\bin\Debug\netcoreapp3.1\Tsunami.pdb
+C:\Users\DELL\source\repos\Tsunami\Tsunami\obj\Debug\netcoreapp3.1\Tsunami.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Tsunami\Tsunami\obj\Debug\netcoreapp3.1\Tsunami.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Tsunami\Tsunami\obj\Debug\netcoreapp3.1\Tsunami.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Tsunami\Tsunami\obj\Debug\netcoreapp3.1\Tsunami.dll
+C:\Users\DELL\source\repos\Tsunami\Tsunami\obj\Debug\netcoreapp3.1\Tsunami.pdb
+C:\Users\DELL\source\repos\Tsunami\Tsunami\obj\Debug\netcoreapp3.1\Tsunami.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Tsunami\Tsunami\obj\Debug\netcoreapp3.1\Tsunami.csprojAssemblyReference.cache
